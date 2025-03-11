@@ -2,9 +2,9 @@ Custom Node Health Check Script
 
 1. This script detects the node health of your Virtual Machine by checking:
 
-Disk Space Usage
-Available Memory
-CPU Core Count
+- Disk Space Usage
+- Available Memory
+- CPU Core Count
 
 2. Best Practices for Writing Shell Scripts
 
